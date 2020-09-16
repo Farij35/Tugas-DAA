@@ -1,0 +1,33 @@
+Diketahui 2 buah bilangan yaitu sebagai berikut;
+A = <input>
+B = <input>
+C = <input>
+Algoritma menentukan bilangan terbesar, terkecil?
+
+Algortima :
+Step 1 Mendeklarasikan variabel A, B, C.
+Step 2 Menentukan bila bilangan A paling besar
+Step 3 Menampilkan bilangan yang paling besar
+Step 4 Menentukan bila bilangan B paling besar
+Step 5 Menampilkan bilangan yang paling besar
+Step 6 Menentukan bila bilangan C paling besar
+Step 8 Menampilkan bilangan yang paling besar
+Step 9 Menentukan bilangan yang paling kecil
+Step 10 Menentukan bilangan yang paling kecil
+
+Pseudocode
+deklarasi
+var A, B, C
+
+if (A>B ; A>C) then
+print "<bilangan input> paling besar"
+
+if (B>A ; B>C) then
+print "<bilangan input> paling besar"
+
+if (C>A ; C>B) then
+print "<bilangan input> paling besar"
+
+else
+print "<bilangan input> yang terkecil"
+end if

@@ -1,4 +1,4 @@
-Diketahui 2 buah bilangan yaitu sebagai berikut;
+Diketahui 3 buah bilangan yaitu sebagai berikut;
 A = <input>
 B = <input>
 C = <input>
